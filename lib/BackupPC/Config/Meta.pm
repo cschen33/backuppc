@@ -391,7 +391,7 @@ use vars qw(%ConfigMeta);
     CgiURL            => "string",
     Language          => {
         type   => "select",
-        values => [qw(cz de en es fr it ja nl pl pt_br ru uk zh_CN)],
+        values => [qw(cz de en es fr it ja nl pl pt_br ru uk zh_CN zh_TW)],
     },
     CgiUserHomePageCheck   => "string",
     CgiUserUrlCreate       => "string",
